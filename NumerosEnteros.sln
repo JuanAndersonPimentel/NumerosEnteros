@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumerosEnteros", "NumerosEnteros\NumerosEnteros.csproj", "{A7C60BA8-C3B0-49AA-9795-7CA99454BBFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiezasDeLote", "PiezasDeLote\PiezasDeLote.csproj", "{BB3B14B8-B13E-4241-A5C5-3A6293844B0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7C60BA8-C3B0-49AA-9795-7CA99454BBFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7C60BA8-C3B0-49AA-9795-7CA99454BBFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7C60BA8-C3B0-49AA-9795-7CA99454BBFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7C60BA8-C3B0-49AA-9795-7CA99454BBFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB3B14B8-B13E-4241-A5C5-3A6293844B0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB3B14B8-B13E-4241-A5C5-3A6293844B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB3B14B8-B13E-4241-A5C5-3A6293844B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB3B14B8-B13E-4241-A5C5-3A6293844B0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2A4A771-6EC1-4B7C-BC84-419C4A3134A4}
+	EndGlobalSection
+EndGlobal
